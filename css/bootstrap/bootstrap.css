@@ -266,7 +266,7 @@ th {
   font-family: 'Glyphicons Halflings';
 
   src: url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.eot');
-  src: url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/deni-liandi/project@3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://cdn.rawgit.com/deni-liandi/project/3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/deni-liandi/project@3b1087b6/css/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
